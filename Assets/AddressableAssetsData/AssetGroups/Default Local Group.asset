@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: b53c42095939f2047940e67d2882e574
+  m_SerializeEntries:
+  - m_GUID: 0deab203b179fac4987baf01a26c1eef
+    m_Address: Assets/Bundles/Player
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Player_Base
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa9ab47844293484f863ce2489c2995d
+    m_Address: Assets/Bundles/GameManager.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e04ec5e5d55d25b408550f6565fea1f9
+    m_Address: Assets/Bundles/Player/Common
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Player_Base
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 60c9336b6354e9e4da4e757a0289038b
+    m_Address: Assets/Bundles/Player/Default
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Player_Base
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 36b1c55a865917d4cb1d6de1ca7acc68
+    m_Address: Assets/Bundles/Player/Common/Animations
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Player_Base
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 04250efaa72ae834d8598eb2dbed24be
+    m_Address: Assets/Bundles/Player/Common/Sprites
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cebd10ba1456dd14fa10ed679c5bb9e3
+    m_Address: Assets/Bundles/Player/Common/Audio
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 67757ca3e1899a44cb3c7ce6261e27d6
+    m_Address: Assets/Bundles/Player/Common/Prefabs
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Player_Default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c45a511a6ef2d484baed5228e1eba03e
+    m_Address: Assets/Bundles/Player/Common/Prefabs/Player_Base.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Player_Default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9847a72297bdc54392122947139c09b
+    m_Address: Assets/Bundles/Player/Default/Player_Default.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Player_Base
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 189a94b50d531d64ea8d6e343ee7aa7c
+    m_Address: Assets/Bundles/Mapa
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Map_Default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5329a6d0c13c10148afc24f694268f1c
+    m_Address: Assets/Bundles/Mapa/Comoon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Map_Base
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aba444a2f23f91041b1fe5c9e7453343
+    m_Address: Assets/Bundles/Mapa/Default
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Map_Default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e9cb09cf14ccd843b71b71e8318e6b1
+    m_Address: Assets/Bundles/Mapa/Default/Mapa_Default.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Map_Default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a5461383842725d459ecd554ee359ce4
+    m_Address: Assets/Bundles/Mapa/Comoon/Mapa_Common.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Map_Base
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 2fa62781d98eb264aa388c269f5217dc, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 1b984fdacbc295a45bd095206ed1b987, type: 2}
+    - {fileID: 11400000, guid: 9dc74f9c3f164ae45bca020d8057e3ef, type: 2}
